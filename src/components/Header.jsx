@@ -19,7 +19,7 @@ export default function Header(){
                 </div>
 
                 <nav className={`menu ${setMenuAtivo ? 'active' :''}`}>
-                    <a href="#hero" onClick={toggleMenu}>Home</a>
+                    <a href="#home" onClick={toggleMenu}>Home</a>
                     <a href="#cardapio" onClick={toggleMenu}>Cardapio</a>
                     <a href="#sobre" onClick={toggleMenu}>Sobre</a>
                     <a href="#contato" onClick={toggleMenu}>Contato</a>
