@@ -157,5 +157,28 @@ body{
 
 .card{
     background-color: #155E3A;
-        
+    padding: 30px 30px;
+    margin: 0 20px;
+    border-radius: 15px;
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    transition: 0.3s;
+}
+
+.card:hover{
+    transform: translateY(-8px);
+}
+
+.card img{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
+.img p{
+    font-size: 16px;
+    line-height: 1.3;
 }
