@@ -24,7 +24,7 @@ const listaDiferenciais = [
     },
     {
         id: 4,
-        imagem: tomateImg,
+        imagem: relampagoImg,
         alt: "Relâmpago",
         texto: "Delivery rápido",
     }

@@ -137,3 +137,25 @@ body{
     background: #9d2500;
 }
 
+.diferenciais{
+    background: #0F5132;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.diferenciais h2{
+    margin-bottom: 50px;
+    font-size: 32px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: #155E3A;
+        
+}
